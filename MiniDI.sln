@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniDI", "MiniDI\MiniDI.csproj", "{44247405-75AB-4D62-BA1E-003E1C080230}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniASPNETCore", "MiniASPNETCore\MiniASPNETCore.csproj", "{D6CEAC30-90C1-4E2F-B189-B35507371020}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniASPNETCore", "MiniASPNETCore\MiniASPNETCore.csproj", "{D6CEAC30-90C1-4E2F-B189-B35507371020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystem", "FileSystem\FileSystem.csproj", "{F22DDE9E-AB59-4594-BBE8-13423F13ED47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D6CEAC30-90C1-4E2F-B189-B35507371020}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6CEAC30-90C1-4E2F-B189-B35507371020}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6CEAC30-90C1-4E2F-B189-B35507371020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F22DDE9E-AB59-4594-BBE8-13423F13ED47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22DDE9E-AB59-4594-BBE8-13423F13ED47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F22DDE9E-AB59-4594-BBE8-13423F13ED47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22DDE9E-AB59-4594-BBE8-13423F13ED47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
